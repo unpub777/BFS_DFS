@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BFS_DFS": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)input.txt"
+    }
+  }
+}
